@@ -65,4 +65,4 @@ This project presents an interactive **Customer Behaviour Analysis Dashboard** b
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
